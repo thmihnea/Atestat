@@ -6,7 +6,7 @@ import com.google.gson.GsonBuilder;
 public class Settings {
 
     public static final String
-            WEATHER_API_KEY = "efa0ba1398a7cd6516f2c952120f5c26",
+            WEATHER_API_KEY = "Formatted",
             WEATHER_API_URL = "https://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s&units=metric";
 
     public static final String
